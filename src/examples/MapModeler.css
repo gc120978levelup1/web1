@@ -1,0 +1,23 @@
+.ex1 {
+    width: 100%;
+    height: 93vh;
+    margin: auto;
+  }
+
+.absButtonTopLeft{
+    position: fixed;
+    left: 10px;
+    top: 100px;
+}
+
+.absButtonTopLeft1{
+  position: fixed;
+  left: 10px;
+  top: 145px;
+}
+
+.absFormTopLeft{
+  position: fixed;
+  left: 10px;
+  top: 140px;
+}
