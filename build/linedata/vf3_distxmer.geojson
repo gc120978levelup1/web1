@@ -1,0 +1,128 @@
+{  
+      "type": "FeatureCollection", 
+      "name": "vf3_distxmer", 
+       "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } }, 
+    "features": [
+                    { 
+                             "type": "Feature",  
+                       "properties": {  
+                                          "JAEDType": "DistXmer", 
+                                            "XmerID": "M1F2-SBDT001OC0162", 
+                                           "FromBus": "M1F2-SBDT001OC0162PRI", 
+                                             "ToBus": "M1F2-SBDT001OC0162SEC", 
+                                             "Phase": "AN", 
+                                              "xKVA": "75", 
+                                               "KVp": "7.62", 
+                                               "KVs": "0.24", 
+                                          "percentZ": "1.7", 
+                                               "XpR": "1.4", 
+                                        "KW no-load": "0.285", 
+                                          "percentI": "1.3", 
+                                             "Brand": "", 
+                                             "Model": "", 
+                                            "Serial": "", 
+                                            "CoopID": "", 
+                                     "Configuration": "SinglePhaseLN"
+                                      }, 
+                        "geometry": {  
+                                              "type": "Point",  
+                                       "coordinates": [ 123.777066611134, 8.47019131440178 ]  
+                                    } 
+                }, 
+
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F2-SBDT002OC0176", "FromBus": "M1F2-SBDT002OC0176PRI", "ToBus": "M1F2-SBDT002OC0176SEC", "Phase": "BN", "xKVA": "75", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.4", "KW no-load": "0.285", "percentI": "1.3", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.770994834935, 8.47057819269894 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F2-SBDT003OC0184", "FromBus": "M1F2-SBDT003OC0184PRI", "ToBus": "M1F2-SBDT003OC0184SEC", "Phase": "CN", "xKVA": "75", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.4", "KW no-load": "0.285", "percentI": "1.3", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.767520362129, 8.47115219011067 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F2-SBDT004OC0162", "FromBus": "M1F2-SBDT004OC0162PRI", "ToBus": "M1F2-SBDT004OC0162SEC", "Phase": "AN", "xKVA": "10", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.2", "KW no-load": "0.068", "percentI": "1.6", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.777062698038, 8.47021283643345 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F2-SBDT005OC0171-1", "FromBus": "M1F2-SBDT005OC0171-1PRI", "ToBus": "M1F2-SBDT005OC0171-1SEC", "Phase": "BN", "xKVA": "25", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.2", "KW no-load": "0.118", "percentI": "1.3", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.772788409897, 8.47023766195362 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F2-SBDT06OC0174", "FromBus": "M1F2-SBDT06OC0174PRI", "ToBus": "M1F2-SBDT06OC0174SEC", "Phase": "BN", "xKVA": "50", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.8", "XpR": "1.4", "KW no-load": "0.185", "percentI": "1", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.772190230903, 8.47096951638416 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F2-SBDT007OC0181", "FromBus": "M1F2-SBDT007OC0181PRI", "ToBus": "M1F2-SBDT007OC0181SEC", "Phase": "BN", "xKVA": "37.5", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.6", "XpR": "1.3", "KW no-load": "0.166", "percentI": "1.1", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.76835752767, 8.47053391843336 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F2-SBDT008OC0182", "FromBus": "M1F2-SBDT008OC0182PRI", "ToBus": "M1F2-SBDT008OC0182SEC", "Phase": "BN", "xKVA": "50", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.8", "XpR": "1.4", "KW no-load": "0.185", "percentI": "1", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.768655047097, 8.46971531473601 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F2-SBDT009OC0183", "FromBus": "M1F2-SBDT009OC0183PRI", "ToBus": "M1F2-SBDT009OC0183SEC", "Phase": "BN", "xKVA": "25", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.2", "KW no-load": "0.118", "percentI": "1.3", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.768385347203, 8.47101490939764 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT006OC2126", "FromBus": "M1F3-SBDT006OC2126PRI", "ToBus": "M1F3-SBDT006OC2126SEC", "Phase": "CN", "xKVA": "15", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.6", "XpR": "1.2", "KW no-load": "0.084", "percentI": "1.4", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.72131463204, 8.44271107925076 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT007OC2154", "FromBus": "M1F3-SBDT007OC2154PRI", "ToBus": "M1F3-SBDT007OC2154SEC", "Phase": "CN", "xKVA": "15", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.6", "XpR": "1.2", "KW no-load": "0.084", "percentI": "1.4", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.707607871925, 8.43007126646044 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT008OC2180", "FromBus": "M1F3-SBDT008OC2180PRI", "ToBus": "M1F3-SBDT008OC2180SEC", "Phase": "CN", "xKVA": "10", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.2", "KW no-load": "0.068", "percentI": "1.6", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.690928364674, 8.42030746010707 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT009OC2198", "FromBus": "M1F3-SBDT009OC2198PRI", "ToBus": "M1F3-SBDT009OC2198SEC", "Phase": "CN", "xKVA": "10", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.2", "KW no-load": "0.068", "percentI": "1.6", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.679311695818, 8.40896512090453 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT010OC2214", "FromBus": "M1F3-SBDT010OC2214PRI", "ToBus": "M1F3-SBDT010OC2214SEC", "Phase": "BCN", "xKVA": "50", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.2", "KW no-load": "0.236", "percentI": "1.3", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.762539870876, 8.46954479126896 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT011OC2215", "FromBus": "M1F3-SBDT011OC2215PRI", "ToBus": "M1F3-SBDT011OC2215SEC", "Phase": "BN", "xKVA": "15", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.6", "XpR": "1.2", "KW no-load": "0.084", "percentI": "1.4", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.761203927189, 8.46832531647768 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT013OC2225", "FromBus": "M1F3-SBDT013OC2225PRI", "ToBus": "M1F3-SBDT013OC2225SEC", "Phase": "BN", "xKVA": "10", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.2", "KW no-load": "0.068", "percentI": "1.6", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.747083608035, 8.46984656290561 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT014OC2253", "FromBus": "M1F3-SBDT014OC2253PRI", "ToBus": "M1F3-SBDT014OC2253SEC", "Phase": "BN", "xKVA": "15", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.6", "XpR": "1.2", "KW no-load": "0.084", "percentI": "1.4", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.739059977187, 8.46365412347812 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT015OC2265", "FromBus": "M1F3-SBDT015OC2265PRI", "ToBus": "M1F3-SBDT015OC2265SEC", "Phase": "BN", "xKVA": "15", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.6", "XpR": "1.2", "KW no-load": "0.084", "percentI": "1.4", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.728461372117, 8.46268877953559 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT016OC2290", "FromBus": "M1F3-SBDT016OC2290PRI", "ToBus": "M1F3-SBDT016OC2290SEC", "Phase": "BN", "xKVA": "15", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.6", "XpR": "1.2", "KW no-load": "0.084", "percentI": "1.4", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.72061011629, 8.45491032076095 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT017OC2330", "FromBus": "M1F3-SBDT017OC2330PRI", "ToBus": "M1F3-SBDT017OC2330SEC", "Phase": "ACN", "xKVA": "50", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.2", "KW no-load": "0.236", "percentI": "1.3", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.740899864913, 8.47250083324603 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT018OC2338", "FromBus": "M1F3-SBDT018OC2338PRI", "ToBus": "M1F3-SBDT018OC2338SEC", "Phase": "ABCN", "xKVA": "150", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.8", "XpR": "1.4", "KW no-load": "0.555", "percentI": "1", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.74584757761, 8.47521417684094 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT019OC2341", "FromBus": "M1F3-SBDT019OC2341PRI", "ToBus": "M1F3-SBDT019OC2341SEC", "Phase": "BN", "xKVA": "25", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.2", "KW no-load": "0.118", "percentI": "1.3", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.748914684407, 8.47767515776909 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT020OC2377", "FromBus": "M1F3-SBDT020OC2377PRI", "ToBus": "M1F3-SBDT020OC2377SEC", "Phase": "AN", "xKVA": "15", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.6", "XpR": "1.2", "KW no-load": "0.084", "percentI": "1.4", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.735713099048, 8.47830758506858 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT021OC2406", "FromBus": "M1F3-SBDT021OC2406PRI", "ToBus": "M1F3-SBDT021OC2406SEC", "Phase": "AN", "xKVA": "15", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.6", "XpR": "1.2", "KW no-load": "0.084", "percentI": "1.4", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.736982041458, 8.48314850186408 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT022OC2424", "FromBus": "M1F3-SBDT022OC2424PRI", "ToBus": "M1F3-SBDT022OC2424SEC", "Phase": "AN", "xKVA": "10", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.2", "KW no-load": "0.068", "percentI": "1.6", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.719278040373, 8.47592179630622 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT023OC2441", "FromBus": "M1F3-SBDT023OC2441PRI", "ToBus": "M1F3-SBDT023OC2441SEC", "Phase": "AN", "xKVA": "15", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.6", "XpR": "1.2", "KW no-load": "0.084", "percentI": "1.4", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.715609754356, 8.4782364309144 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT024OC2459", "FromBus": "M1F3-SBDT024OC2459PRI", "ToBus": "M1F3-SBDT024OC2459SEC", "Phase": "AN", "xKVA": "10", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.2", "KW no-load": "0.068", "percentI": "1.6", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.723100304131, 8.49227400214032 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT025OC2462", "FromBus": "M1F3-SBDT025OC2462PRI", "ToBus": "M1F3-SBDT025OC2462SEC", "Phase": "AN", "xKVA": "75", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.4", "KW no-load": "0.285", "percentI": "1.3", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.725449837423, 8.49390274294965 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT026OC2498", "FromBus": "M1F3-SBDT026OC2498PRI", "ToBus": "M1F3-SBDT026OC2498SEC", "Phase": "AN", "xKVA": "15", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.6", "XpR": "1.2", "KW no-load": "0.084", "percentI": "1.4", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.731783549286, 8.50022957262983 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT027OC2524", "FromBus": "M1F3-SBDT027OC2524PRI", "ToBus": "M1F3-SBDT027OC2524SEC", "Phase": "AN", "xKVA": "10", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.2", "KW no-load": "0.068", "percentI": "1.6", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.708276374961, 8.46582732591808 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT028OC2538", "FromBus": "M1F3-SBDT028OC2538PRI", "ToBus": "M1F3-SBDT028OC2538SEC", "Phase": "AN", "xKVA": "15", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.6", "XpR": "1.2", "KW no-load": "0.084", "percentI": "1.4", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.717320381359, 8.46806056455396 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT029OC2537", "FromBus": "M1F3-SBDT029OC2537PRI", "ToBus": "M1F3-SBDT029OC2537SEC", "Phase": "AN", "xKVA": "10", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.2", "KW no-load": "0.068", "percentI": "1.6", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.715869813812, 8.46695112915482 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT030OC2615", "FromBus": "M1F3-SBDT030OC2615PRI", "ToBus": "M1F3-SBDT030OC2615SEC", "Phase": "AN", "xKVA": "15", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.6", "XpR": "1.2", "KW no-load": "0.084", "percentI": "1.4", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.707590617129, 8.48777832021038 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT031OC2634", "FromBus": "M1F3-SBDT031OC2634PRI", "ToBus": "M1F3-SBDT031OC2634SEC", "Phase": "AN", "xKVA": "10", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.2", "KW no-load": "0.068", "percentI": "1.6", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.699846565911, 8.47287791995425 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT032LJ2662", "FromBus": "M1F3-SBDT032LJ2662PRI", "ToBus": "M1F3-SBDT032LJ2662SEC", "Phase": "AN", "xKVA": "10", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.2", "KW no-load": "0.068", "percentI": "1.6", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.696230401733, 8.47656401765515 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT033LJ2681", "FromBus": "M1F3-SBDT033LJ2681PRI", "ToBus": "M1F3-SBDT033LJ2681SEC", "Phase": "AN", "xKVA": "10", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.2", "KW no-load": "0.068", "percentI": "1.6", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.686702187366, 8.46419818670584 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-Node_3094542841", "FromBus": "M1F3-Node_3094542841PRI", "ToBus": "M1F3-Node_3094542841SEC", "Phase": "BCN", "xKVA": "50", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.2", "KW no-load": "0.236", "percentI": "1.3", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "OpenWye-OpenDelta"}, "geometry": {  "type": "Point",  "coordinates": [ 123.76919024173, 8.4675633925264 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT001OC2011", "FromBus": "M1F3-SBDT001OC2011PRI", "ToBus": "M1F3-SBDT001OC2011SEC", "Phase": "BCN", "xKVA": "50", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.2", "KW no-load": "0.236", "percentI": "1.3", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "OpenWye-OpenDelta"}, "geometry": {  "type": "Point",  "coordinates": [ 123.7687444276, 8.46835844420281 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT002OC2015", "FromBus": "M1F3-SBDT002OC2015PRI", "ToBus": "M1F3-SBDT002OC2015SEC", "Phase": "CN", "xKVA": "75", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.4", "KW no-load": "0.285", "percentI": "1.3", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.765055325714, 8.46631671704892 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT003OC2052", "FromBus": "M1F3-SBDT003OC2052PRI", "ToBus": "M1F3-SBDT003OC2052SEC", "Phase": "CN", "xKVA": "75", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.4", "KW no-load": "0.285", "percentI": "1.3", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.749972933805, 8.4581968073311 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT004OC2064", "FromBus": "M1F3-SBDT004OC2064PRI", "ToBus": "M1F3-SBDT004OC2064SEC", "Phase": "CN", "xKVA": "15", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.6", "XpR": "1.2", "KW no-load": "0.084", "percentI": "1.4", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.745810647745, 8.45239263301893 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "M1F3-SBDT005OC2116", "FromBus": "M1F3-SBDT005OC2116PRI", "ToBus": "M1F3-SBDT005OC2116SEC", "Phase": "CN", "xKVA": "15", "KVp": "7.62", "KVs": "0.24", "percentZ": "1.6", "XpR": "1.2", "KW no-load": "0.084", "percentI": "1.4", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.723363517064, 8.44833723185409 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "TRM-123.760011623660000-8.467894228891740", "FromBus": "TRM-123.760011623660000-8.467894228891740PRI", "ToBus": "TRM-123.760011623660000-8.467894228891740SEC", "Phase": "BCN", "xKVA": "50", "KVp": "7.621", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.2", "KW no-load": "0.236", "percentI": "1.3", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "Delta-WyeGnd"}, "geometry": {  "type": "Point",  "coordinates": [ 123.760008725822, 8.46781770717546 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "TRM-123.768966608087000-8.477760515334600", "FromBus": "TRM-123.768966608087000-8.477760515334600PRI", "ToBus": "TRM-123.768966608087000-8.477760515334600SEC", "Phase": "BN", "xKVA": "75", "KVp": "7.621", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.4", "KW no-load": "0.285", "percentI": "1.3", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.768966608096, 8.47776051533526 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "TRM-123.774505624257000-8.469380443683700", "FromBus": "TRM-123.774505624257000-8.469380443683700PRI", "ToBus": "TRM-123.774505624257000-8.469380443683700SEC", "Phase": "BN", "xKVA": "167", "KVp": "7.621", "KVs": "0.24", "percentZ": "2.1", "XpR": "1.9", "KW no-load": "0.5", "percentI": "1", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.774544457737, 8.46955717882286 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "TRM-123.761406932106000-8.466409262183630", "FromBus": "TRM-123.761406932106000-8.466409262183630PRI", "ToBus": "TRM-123.761406932106000-8.466409262183630SEC", "Phase": "CN", "xKVA": "75", "KVp": "7.621", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.4", "KW no-load": "0.285", "percentI": "1.3", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.761406932111, 8.46640926218401 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "TRM-123.727372470853000-8.494526866524010", "FromBus": "TRM-123.727372470853000-8.494526866524010PRI", "ToBus": "TRM-123.727372470853000-8.494526866524010SEC", "Phase": "AN", "xKVA": "75", "KVp": "7.621", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.4", "KW no-load": "0.285", "percentI": "1.3", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.726910534493, 8.49443800192522 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "TRM-123.744979714023000-8.456581016668490", "FromBus": "TRM-123.744979714023000-8.456581016668490PRI", "ToBus": "TRM-123.744979714023000-8.456581016668490SEC", "Phase": "CN", "xKVA": "75", "KVp": "7.621", "KVs": "0.24", "percentZ": "1.7", "XpR": "1.4", "KW no-load": "0.285", "percentI": "1.3", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "SinglePhaseLN"}, "geometry": {  "type": "Point",  "coordinates": [ 123.744979714028, 8.45658101666882 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "DistXmer", "XmerID": "TRM-123.719553431601000-8.466874386190800", "FromBus": "TRM-123.719553431601000-8.466874386190800PRI", "ToBus": "TRM-123.719553431601000-8.466874386190800SEC", "Phase": "ABCN", "xKVA": "501", "KVp": "7.621", "KVs": "0.24", "percentZ": "2.1", "XpR": "1.9", "KW no-load": "1.5", "percentI": "1", "Brand": "", "Model": "", "Serial": "", "CoopID": "", "Configuration": "Delta-Wye"}, "geometry": {  "type": "Point",  "coordinates": [ 123.719552751713, 8.46686371218762 ]  } }
+]}

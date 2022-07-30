@@ -1,0 +1,869 @@
+{   
+         "type": "FeatureCollection", 
+         "name": "vf3_pripole", 
+          "crs": { 
+                    "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } 
+                 }, 
+     "features": [
+                    { 
+                               "type": "Feature",  
+                         "properties": {   
+                                               "JAEDType": "MVPole", 
+                                                 "PoleID": "M1F2-PBOC0174", 
+                                                  "BusID": "M1F2-PBOC0174", 
+                                                  "Phase": "CN", 
+                                         "StructureType1": "C1 ", 
+                                         "StructureType2": "C1", 
+                                         "StructureType3": "", 
+                                                 "Height": "30", 
+                                               "PoleType": "Wood Pole", 
+                                                "Picture": ""
+                                       }, 
+                          "geometry": {  
+                                                 "type": "Point",  
+                                          "coordinates": [ 123.772186139861, 8.47097213256243 ]  
+                                       }  
+                   }, 
+
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F2-PBOC0176", "BusID": "M1F2-PBOC0176", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.771000536573, 8.47058113994568 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F2-PBOC0177", "BusID": "M1F2-PBOC0177", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.770305841772, 8.47057808169403 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F2-PBOC0178", "BusID": "M1F2-PBOC0178", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.769280422276, 8.47087841650817 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F2-PBOC0179", "BusID": "M1F2-PBOC0179", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.76872662901, 8.47091566449488 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F2-PBOC0180", "BusID": "M1F2-PBOC0180", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.768672691322, 8.47080729125046 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F2-PBOC0181", "BusID": "M1F2-PBOC0181", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.768336961746, 8.47053675264565 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F2-PBOC0182", "BusID": "M1F2-PBOC0182", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.768642546842, 8.4697225588004 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F2-PBOC0183", "BusID": "M1F2-PBOC0183", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.768363599993, 8.47099773683565 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F2-PBOC0184", "BusID": "M1F2-PBOC0184", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.767528548545, 8.47114401453187 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F2-PBOC0162", "BusID": "M1F2-PBOC0162", "Phase": "ACN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.777036610727, 8.47019914059512 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F2-PBOC0165", "BusID": "M1F2-PBOC0165", "Phase": "ACN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.774584424972, 8.46955144385274 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F2-PBOC0167", "BusID": "M1F2-PBOC0167", "Phase": "ACN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.774499128584, 8.46979237205288 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F2-PBOC0168", "BusID": "M1F2-PBOC0168", "Phase": "ACN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.7740366223, 8.47007352459262 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F2-PBOC0169", "BusID": "M1F2-PBOC0169", "Phase": "ACN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.773828005005, 8.47018241622662 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F2-PBOC00171-1", "BusID": "M1F2-PBOC00171-1", "Phase": "ACN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.772787995159, 8.47022520877645 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F2-PBOC0172", "BusID": "M1F2-PBOC0172", "Phase": "ACN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.772294016982, 8.4704295243 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F2-PBOC0175", "BusID": "M1F2-PBOC0175", "Phase": "ACN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.77196707453, 8.47039400969753 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2014", "BusID": "M1F3-PBOC2014", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.765354095744, 8.46763334517398 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2015", "BusID": "M1F3-PBOC2015", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.765066679808, 8.46629298778617 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2020", "BusID": "M1F3-PBOC2020", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.764210306144, 8.46635168940914 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2022", "BusID": "M1F3-PBOC2022", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.762989772725, 8.46630474890626 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2024", "BusID": "M1F3-PBOC2024", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.761405688898, 8.4663919246045 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2028", "BusID": "M1F3-PBOC2028", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.761527764553, 8.46546961256739 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2029", "BusID": "M1F3-PBOC2029", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.761398522321, 8.46527767384462 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2030", "BusID": "M1F3-PBOC2030", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.761253059736, 8.46485543030324 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2036", "BusID": "M1F3-PBOC2036", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.76046497201, 8.46463687676019 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2037", "BusID": "M1F3-PBOC2037", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.759874304306, 8.46430667109801 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2038", "BusID": "M1F3-PBOC2038", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.759554459746, 8.46383463841424 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2039", "BusID": "M1F3-PBOC2039", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.759093236519, 8.46290699314111 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2040", "BusID": "M1F3-PBOC2040", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.75873327068, 8.46211597176601 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2041", "BusID": "M1F3-PBOC2041", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.758250286115, 8.461787671456 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2042", "BusID": "M1F3-PBOC2042", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.757703299955, 8.4614240785555 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2043", "BusID": "M1F3-PBOC2043", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.75689228732, 8.4609676614143 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2044", "BusID": "M1F3-PBOC2044", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.756173694558, 8.46047419694706 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2045", "BusID": "M1F3-PBOC2045", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.755467018675, 8.46001206344509 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2046", "BusID": "M1F3-PBOC2046", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.754660900749, 8.45973111865406 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2047", "BusID": "M1F3-PBOC2047", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.753816471471, 8.45945487753759 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2048", "BusID": "M1F3-PBOC2048", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.752758658562, 8.45912717232509 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2049", "BusID": "M1F3-PBOC2049", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.752020210434, 8.45892497080079 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2050", "BusID": "M1F3-PBOC2050", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.751428704996, 8.45872933972007 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2051", "BusID": "M1F3-PBOC2051", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.750638925987, 8.45845754051104 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2052", "BusID": "M1F3-PBOC2052", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.749998695685, 8.45824180693863 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2053", "BusID": "M1F3-PBOC2053", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.749417967777, 8.45806211836087 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2054", "BusID": "M1F3-PBOC2054", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.748664390408, 8.45781078925425 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2055", "BusID": "M1F3-PBOC2055", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.747930395551, 8.45756776127482 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2056", "BusID": "M1F3-PBOC2056", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.747277564076, 8.4573378175978 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2057", "BusID": "M1F3-PBOC2057", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.746524950165, 8.45715460159748 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2058", "BusID": "M1F3-PBOC2058", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.745868090958, 8.45697047551662 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2089", "BusID": "M1F3-PBOC2089", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.744930547427, 8.45665132979489 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2090", "BusID": "M1F3-PBOC2090", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.743903181824, 8.45632790184355 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2091", "BusID": "M1F3-PBOC2091", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.743067331363, 8.45613061307822 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2092", "BusID": "M1F3-PBOC2092", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.742597795366, 8.4560166077441 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2093", "BusID": "M1F3-PBOC2093", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.742073718034, 8.45591553549785 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2094", "BusID": "M1F3-PBOC2094", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.741250348531, 8.45613384226827 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2095", "BusID": "M1F3-PBOC2095", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.740152430822, 8.45651580718946 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2096", "BusID": "M1F3-PBOC2096", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.73917771352, 8.45650474605132 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2097", "BusID": "M1F3-PBOC2097", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.737930580987, 8.45649287614115 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2098", "BusID": "M1F3-PBOC2098", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.737334095311, 8.45616416477729 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2099", "BusID": "M1F3-PBOC2099", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.736461898357, 8.45632387815144 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2100", "BusID": "M1F3-PBOC2100", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.735341997514, 8.45648902322669 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2101", "BusID": "M1F3-PBOC2101", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.734201880942, 8.45624675746545 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2102", "BusID": "M1F3-PBOC2102", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.73289324945, 8.45573003832781 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2103", "BusID": "M1F3-PBOC2103", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.732062703321, 8.45521115695235 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2104", "BusID": "M1F3-PBOC2104", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.731105742038, 8.45459799808268 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2105", "BusID": "M1F3-PBOC2105", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.73028332547, 8.45403023355821 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2106", "BusID": "M1F3-PBOC2106", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.72943396738, 8.4537524451624 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2107", "BusID": "M1F3-PBOC2107", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.728468674163, 8.45326520746833 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2108", "BusID": "M1F3-PBOC2108", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.727657277569, 8.45308228875965 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2109", "BusID": "M1F3-PBOC2109", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.726680465144, 8.45215660246911 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2110", "BusID": "M1F3-PBOC2110", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.726008671245, 8.45156369241361 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2111", "BusID": "M1F3-PBOC2111", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.725040404855, 8.45078555395626 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2112", "BusID": "M1F3-PBOC2112", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.724402948506, 8.45030054087679 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2113", "BusID": "M1F3-PBOC2113", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.723672959268, 8.44971231559098 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2114", "BusID": "M1F3-PBOC2114", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.723333414703, 8.44928769684416 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2115", "BusID": "M1F3-PBOC2115", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.723065267479, 8.44881814515313 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2116", "BusID": "M1F3-PBOC2116", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.722860845379, 8.44832164808972 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2117", "BusID": "M1F3-PBOC2117", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.722747264077, 8.44717398006274 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2118", "BusID": "M1F3-PBOC2118", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.722576164264, 8.44636764506433 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2119", "BusID": "M1F3-PBOC2119", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.7222744823, 8.44547511759354 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2120", "BusID": "M1F3-PBOC2120", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.721943166835, 8.4447022949357 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2124", "BusID": "M1F3-PBOC2124", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.721785681413, 8.44361376959771 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2125", "BusID": "M1F3-PBOC2125", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.721376260602, 8.44318433613089 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2126", "BusID": "M1F3-PBOC2126", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.72079425667, 8.44270254729938 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2127", "BusID": "M1F3-PBOC2127", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.720389480309, 8.44232867634353 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2128", "BusID": "M1F3-PBOC2128", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.719745146733, 8.44169198743928 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2133", "BusID": "M1F3-PBOC2133", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.719199100379, 8.44072162151415 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2134", "BusID": "M1F3-PBOC2134", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.719419395781, 8.44015577743446 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2135", "BusID": "M1F3-PBOC2135", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.719958848204, 8.43897427926138 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2136", "BusID": "M1F3-PBOC2136", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.719370791591, 8.43847441870671 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2137", "BusID": "M1F3-PBOC2137", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.71896120481, 8.43783938306237 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2138", "BusID": "M1F3-PBOC2138", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.718375541021, 8.43712023336454 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2139", "BusID": "M1F3-PBOC2139", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.718113268118, 8.43671200300034 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2140", "BusID": "M1F3-PBOC2140", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.717471168537, 8.43583819925741 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2141", "BusID": "M1F3-PBOC2141", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.716725629547, 8.43569312263398 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2142", "BusID": "M1F3-PBOC2142", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.715823687913, 8.43540728147739 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2143", "BusID": "M1F3-PBOC2143", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.715195109219, 8.43526584197523 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2144", "BusID": "M1F3-PBOC2144", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.714414488828, 8.43470472178499 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2145", "BusID": "M1F3-PBOC2145", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.713829585515, 8.43389091335346 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2146", "BusID": "M1F3-PBOC2146", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.713322540362, 8.43341397724064 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2147", "BusID": "M1F3-PBOC2147", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.712869378294, 8.43292413961965 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2148", "BusID": "M1F3-PBOC2148", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.711982997749, 8.43243103954442 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2149", "BusID": "M1F3-PBOC2149", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.711153622913, 8.43189049279497 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2150", "BusID": "M1F3-PBOC2150", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.710358231599, 8.43155709281152 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2151", "BusID": "M1F3-PBOC2151", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.709649219473, 8.43113152931071 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2152", "BusID": "M1F3-PBOC2152", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.708873343883, 8.43065576640524 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2153", "BusID": "M1F3-PBOC2153", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.707678198713, 8.4303776082098 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2154", "BusID": "M1F3-PBOC2154", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.7070648973, 8.43006237802158 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2155", "BusID": "M1F3-PBOC2155", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.70634186499, 8.42980172155339 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2156", "BusID": "M1F3-PBOC2156", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.705801809471, 8.4295041627839 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2157", "BusID": "M1F3-PBOC2157", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.705361709809, 8.42912234138405 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2158", "BusID": "M1F3-PBOC2158", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.704598778263, 8.42868367335641 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2159", "BusID": "M1F3-PBOC2159", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.70413320181, 8.42839346337255 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2160", "BusID": "M1F3-PBOC2160", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.70361119866, 8.42793511511215 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2161", "BusID": "M1F3-PBOC2161", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.703219404759, 8.42751431402573 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2162", "BusID": "M1F3-PBOC2162", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.70273463905, 8.42704171436649 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2163", "BusID": "M1F3-PBOC2163", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.702293456087, 8.42661353698927 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2164", "BusID": "M1F3-PBOC2164", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.701616014365, 8.42633858488759 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2165", "BusID": "M1F3-PBOC2165", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.70088905345, 8.42611693026081 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2166", "BusID": "M1F3-PBOC2166", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.700262173276, 8.42578955196561 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2167", "BusID": "M1F3-PBOC2167", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.699679904301, 8.42549265290049 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2168", "BusID": "M1F3-PBOC2168", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.698968748793, 8.42517712617971 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2169", "BusID": "M1F3-PBOC2169", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.698713496735, 8.42506865744892 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2170", "BusID": "M1F3-PBOC2170", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.698419393287, 8.4250153800883 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2171", "BusID": "M1F3-PBOC2171", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.696943905309, 8.42480756027121 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2172", "BusID": "M1F3-PBOC2172", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.695454143343, 8.42380021978247 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2173", "BusID": "M1F3-PBOC2173", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.69431926694, 8.42349813896291 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2174", "BusID": "M1F3-PBOC2174", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.693826854419, 8.4229442830592 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2175", "BusID": "M1F3-PBOC2175", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.693107798327, 8.42231041017189 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2176", "BusID": "M1F3-PBOC2176", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.692335877211, 8.42184401660094 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2177", "BusID": "M1F3-PBOC2177", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.691680814045, 8.42136676296954 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2178", "BusID": "M1F3-PBOC2178", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.691414414357, 8.42106818751128 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2179", "BusID": "M1F3-PBOC2179", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.691017434717, 8.42073715620504 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2180", "BusID": "M1F3-PBOC2180", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.690402886873, 8.42030155401707 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2181", "BusID": "M1F3-PBOC2181", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.689803454413, 8.41961334837149 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2182", "BusID": "M1F3-PBOC2182", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.689353428603, 8.41915529947377 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2183", "BusID": "M1F3-PBOC2183", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.688982610826, 8.41786009226948 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2184", "BusID": "M1F3-PBOC2184", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.68847739124, 8.41698720613246 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2185", "BusID": "M1F3-PBOC2185", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.688166962698, 8.41578902779904 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2186", "BusID": "M1F3-PBOC2186", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.687474406542, 8.4145842884619 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2187", "BusID": "M1F3-PBOC2187", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.68701187636, 8.41389155874228 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2188", "BusID": "M1F3-PBOC2188", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.686551826932, 8.41315755934179 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2189", "BusID": "M1F3-PBOC2189", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.686034827552, 8.41205249318907 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2190", "BusID": "M1F3-PBOC2190", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.685415240956, 8.41140575545578 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2191", "BusID": "M1F3-PBOC2191", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.684684805933, 8.41063273496158 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2192", "BusID": "M1F3-PBOC2192", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.683874715673, 8.40976312974201 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2193", "BusID": "M1F3-PBOC2193", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.683169551743, 8.40919114609264 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2194", "BusID": "M1F3-PBOC2194", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.682493007216, 8.40912367572182 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2195", "BusID": "M1F3-PBOC2195", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.68131834198, 8.4094233551543 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2196", "BusID": "M1F3-PBOC2196", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.680604847251, 8.40928062237899 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2197", "BusID": "M1F3-PBOC2197", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.679641372401, 8.40911753790803 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2198", "BusID": "M1F3-PBOC2198", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.678794534242, 8.40895829908388 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2059", "BusID": "M1F3-PBOC2059", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.746198854601, 8.45624218437477 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2060", "BusID": "M1F3-PBOC2060", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.74520283052, 8.45489800658593 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2061", "BusID": "M1F3-PBOC2061", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.745424176253, 8.45413734204758 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2062", "BusID": "M1F3-PBOC2062", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.745524347124, 8.45362511667109 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2063", "BusID": "M1F3-PBOC2063", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.745591205419, 8.45312454619669 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2064", "BusID": "M1F3-PBOC2064", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.745794444194, 8.45231588823179 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2238", "BusID": "M1F3-PBOC2238", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.746387946136, 8.46951251285814 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2239", "BusID": "M1F3-PBOC2239", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.745563842478, 8.46900784476518 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2245", "BusID": "M1F3-PBOC2245", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.744702922522, 8.46855748467406 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2246", "BusID": "M1F3-PBOC2246", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.744043283267, 8.46751010124101 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2247", "BusID": "M1F3-PBOC2247", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.743357672333, 8.46640852582184 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2248", "BusID": "M1F3-PBOC2248", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.742965508589, 8.46582167111658 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2249", "BusID": "M1F3-PBOC2249", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.74228697122, 8.46546135855747 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2250", "BusID": "M1F3-PBOC2250", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.741558656887, 8.46505593903428 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2251", "BusID": "M1F3-PBOC2251", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.740641515806, 8.46455143536091 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2252", "BusID": "M1F3-PBOC2252", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.739773771096, 8.46406491586081 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2253", "BusID": "M1F3-PBOC2253", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.738535065092, 8.46364660178481 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2254", "BusID": "M1F3-PBOC2254", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.73778341632, 8.46340875063945 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2255", "BusID": "M1F3-PBOC2255", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.737032666109, 8.46292200422463 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2256", "BusID": "M1F3-PBOC2256", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.736010829725, 8.46238152561089 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2257", "BusID": "M1F3-PBOC2257", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.735290287234, 8.4619941586536 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2258", "BusID": "M1F3-PBOC2258", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.734836310555, 8.46232045053658 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2259", "BusID": "M1F3-PBOC2259", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.734231958429, 8.4627735838511 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2260", "BusID": "M1F3-PBOC2260", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.733487691679, 8.46278401820016 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2261", "BusID": "M1F3-PBOC2261", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.732498849044, 8.46276778848447 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2262", "BusID": "M1F3-PBOC2262", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.731141702197, 8.46275224395161 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2263", "BusID": "M1F3-PBOC2263", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.73040709671, 8.46278073165773 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2264", "BusID": "M1F3-PBOC2264", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.729488720935, 8.4628457258069 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2265", "BusID": "M1F3-PBOC2265", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.728420954077, 8.46276635270213 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2266", "BusID": "M1F3-PBOC2266", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.727490977295, 8.46278616087373 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2277", "BusID": "M1F3-PBOC2277", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.727267133076, 8.46230745571016 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2278", "BusID": "M1F3-PBOC2278", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.726793145046, 8.46164841405992 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2279", "BusID": "M1F3-PBOC2279", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.726275593108, 8.45996793043887 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2280", "BusID": "M1F3-PBOC2280", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.726142700777, 8.4598506564174 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2281", "BusID": "M1F3-PBOC2281", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.725461807688, 8.45942703664216 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2282", "BusID": "M1F3-PBOC2282", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.724639607027, 8.45900367676811 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2283", "BusID": "M1F3-PBOC2283", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.724032169986, 8.45910423975054 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2284", "BusID": "M1F3-PBOC2284", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.72324846438, 8.45830112462509 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2285", "BusID": "M1F3-PBOC2285", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.72265274856, 8.45816662306457 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2286", "BusID": "M1F3-PBOC2286", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.722058758424, 8.45820387789545 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2287", "BusID": "M1F3-PBOC2287", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.722145102767, 8.45716411559963 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2288", "BusID": "M1F3-PBOC2288", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.721561705765, 8.4562521469404 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2289", "BusID": "M1F3-PBOC2289", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.720719000498, 8.45547625437767 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2290", "BusID": "M1F3-PBOC2290", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.720080545513, 8.45489886541302 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2340", "BusID": "M1F3-PBOC2340", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.747668075748, 8.47675275019461 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2341", "BusID": "M1F3-PBOC2341", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.748987354731, 8.47766017255986 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2369", "BusID": "M1F3-PBOC2369", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.733477908665, 8.47383091815889 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2370", "BusID": "M1F3-PBOC2370", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.733589712548, 8.47448158836401 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2371", "BusID": "M1F3-PBOC2371", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.733655118937, 8.47499674563037 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2372", "BusID": "M1F3-PBOC2372", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.734114855573, 8.47547500291317 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2373", "BusID": "M1F3-PBOC2373", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.734403701488, 8.47598974051503 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2374", "BusID": "M1F3-PBOC2374", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.734506503469, 8.47645962728823 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2375", "BusID": "M1F3-PBOC2375", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.734638846077, 8.47721873830083 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2376", "BusID": "M1F3-PBOC2376", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.734881198441, 8.4777878025727 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2377", "BusID": "M1F3-PBOC2377", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.735197441827, 8.47829344779596 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2399", "BusID": "M1F3-PBOC2399", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.734894785928, 8.47883641636166 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2400", "BusID": "M1F3-PBOC2400", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.734313456403, 8.47987710793982 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2401", "BusID": "M1F3-PBOC2401", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.733453247706, 8.48068328230634 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2402", "BusID": "M1F3-PBOC2402", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.733976945952, 8.48136933898227 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2403", "BusID": "M1F3-PBOC2403", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.734296430947, 8.48188401862408 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2404", "BusID": "M1F3-PBOC2404", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.735167563079, 8.48230726065956 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2405", "BusID": "M1F3-PBOC2405", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.735689805371, 8.48277635753128 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2406", "BusID": "M1F3-PBOC2406", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.736449334539, 8.48313652660009 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2407", "BusID": "M1F3-PBOC2407", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.737064575065, 8.4832980864728 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2440", "BusID": "M1F3-PBOC2440", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.714537426048, 8.47735542208771 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2441", "BusID": "M1F3-PBOC2441", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.715093777259, 8.47822224832519 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2442", "BusID": "M1F3-PBOC2442", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.715608578237, 8.47902586932422 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2443", "BusID": "M1F3-PBOC2443", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.716119390159, 8.47990181694318 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2444", "BusID": "M1F3-PBOC2444", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.716428001393, 8.48057925370368 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2445", "BusID": "M1F3-PBOC2445", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.716779643271, 8.4817377666776 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2446", "BusID": "M1F3-PBOC2446", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.717085894532, 8.48267619091449 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2447", "BusID": "M1F3-PBOC2447", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.717475284608, 8.48365094184156 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2448", "BusID": "M1F3-PBOC2448", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.717803317522, 8.4845995420129 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2449", "BusID": "M1F3-PBOC2449", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.718307635762, 8.48555685772463 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2450", "BusID": "M1F3-PBOC2450", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.718697945121, 8.48610758131711 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2451", "BusID": "M1F3-PBOC2451", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.71933597703, 8.48693808900121 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2454", "BusID": "M1F3-PBOC2454", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.719950194243, 8.48783191935182 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2455", "BusID": "M1F3-PBOC2455", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.720609526246, 8.4887799053473 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2456", "BusID": "M1F3-PBOC2456", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.721105315095, 8.48947620148418 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2457", "BusID": "M1F3-PBOC2457", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.721823096558, 8.49050430710655 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2458", "BusID": "M1F3-PBOC2458", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.722396113584, 8.49134396858277 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2459", "BusID": "M1F3-PBOC2459", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.723054808631, 8.49222887712334 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2460", "BusID": "M1F3-PBOC2460", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.723455713341, 8.49289688845703 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2461", "BusID": "M1F3-PBOC2461", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.724301939152, 8.49336539966974 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2462", "BusID": "M1F3-PBOC2462", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.725324926956, 8.49397822064348 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2463", "BusID": "M1F3-PBOC2463", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.72598020099, 8.49439284265519 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2467", "BusID": "M1F3-PBOC2467", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.726929848158, 8.49449051511793 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2481", "BusID": "M1F3-PBOC2481", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.728660024334, 8.49475848887845 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2482", "BusID": "M1F3-PBOC2482", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.729509488304, 8.49483826209585 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2483", "BusID": "M1F3-PBOC2483", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.730408644192, 8.49456538055084 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2484", "BusID": "M1F3-PBOC2484", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.731405370098, 8.49416575422559 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2490", "BusID": "M1F3-PBOC2490", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.728655621208, 8.49604217689658 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2491", "BusID": "M1F3-PBOC2491", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.729020783893, 8.49661101467847 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2492", "BusID": "M1F3-PBOC2492", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.729426435666, 8.49728825631176 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2493", "BusID": "M1F3-PBOC2493", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.729700442356, 8.49775782376695 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2494", "BusID": "M1F3-PBOC2494", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.73003599618, 8.49825439574703 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2495", "BusID": "M1F3-PBOC2495", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.730376919446, 8.49886847718004 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2496", "BusID": "M1F3-PBOC2496", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.73080082378, 8.49940104293136 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2497", "BusID": "M1F3-PBOC2497", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.731298572691, 8.49984306966938 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2498", "BusID": "M1F3-PBOC2498", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.731752910483, 8.5003303770619 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2592", "BusID": "M1F3-PBOC2592", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.701100907029, 8.4782747057536 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2593", "BusID": "M1F3-PBOC2593", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.701037123439, 8.4777595367302 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2595", "BusID": "M1F3-PBOC2595", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.70124005906, 8.4781750155996 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2596", "BusID": "M1F3-PBOC2596", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.701354834774, 8.47851833202195 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2597", "BusID": "M1F3-PBOC2597", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.701907640486, 8.47931286510082 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2598", "BusID": "M1F3-PBOC2598", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.702390413637, 8.48009125098007 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2599", "BusID": "M1F3-PBOC2599", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.70282057833, 8.48064011324401 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2600", "BusID": "M1F3-PBOC2600", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.703516671553, 8.48153382643271 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2601", "BusID": "M1F3-PBOC2601", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.703809484485, 8.48229266366921 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2602", "BusID": "M1F3-PBOC2602", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.704069991637, 8.48307867896811 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2603", "BusID": "M1F3-PBOC2603", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.704280859174, 8.48380150305182 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2604", "BusID": "M1F3-PBOC2604", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.704662177854, 8.48452401960809 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2605", "BusID": "M1F3-PBOC2605", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.704984973302, 8.48518336087237 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2606", "BusID": "M1F3-PBOC2606", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.705518136984, 8.48590560231865 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2607", "BusID": "M1F3-PBOC2607", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.705725023243, 8.48621259023785 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2613", "BusID": "M1F3-PBOC2613", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.705930399642, 8.48662806132641 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2614", "BusID": "M1F3-PBOC2614", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.70652026002, 8.48717843777182 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2615", "BusID": "M1F3-PBOC2615", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.707079013545, 8.48776502963538 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2594", "BusID": "M1F3-PBOC2594", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.700906889065, 8.47679248389293 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2631", "BusID": "M1F3-PBOC2631", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.700462586101, 8.47576271288265 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2632", "BusID": "M1F3-PBOC2632", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.699983763982, 8.47442564088974 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2633", "BusID": "M1F3-PBOC2633", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.699710977757, 8.47382044461368 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2634", "BusID": "M1F3-PBOC2634", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.699317449551, 8.47286290148496 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2635", "BusID": "M1F3-PBOC2635", "Phase": "CN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.698874495242, 8.47185120552716 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2658", "BusID": "M1F3-PBLJ2658", "Phase": "BN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.696568934268, 8.47978345542343 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2659", "BusID": "M1F3-PBLJ2659", "Phase": "BN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.696353103126, 8.4792052756312 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2660", "BusID": "M1F3-PBLJ2660", "Phase": "BN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.69603417979, 8.47844647771852 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2661", "BusID": "M1F3-PBLJ2661", "Phase": "BN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.696006155948, 8.47752444073442 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2662", "BusID": "M1F3-PBLJ2662", "Phase": "BN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.69572775559, 8.47654860859766 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2663", "BusID": "M1F3-PBLJ2663", "Phase": "BN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.695128514607, 8.47617903110618 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2665", "BusID": "M1F3-PBLJ2665", "Phase": "BN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.694211995551, 8.47514105045773 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2666", "BusID": "M1F3-PBLJ2666", "Phase": "BN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.693843838407, 8.47454505882648 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2667", "BusID": "M1F3-PBLJ2667", "Phase": "BN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.693304180312, 8.47375048890124 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2668", "BusID": "M1F3-PBLJ2668", "Phase": "BN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.692966866497, 8.47333524295878 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2669", "BusID": "M1F3-PBLJ2669", "Phase": "BN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.692106591433, 8.47288476166771 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2670", "BusID": "M1F3-PBLJ2670", "Phase": "BN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.691462870495, 8.47251525651835 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2671", "BusID": "M1F3-PBLJ2671", "Phase": "BN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.691081367295, 8.47194640536712 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2672", "BusID": "M1F3-PBLJ2672", "Phase": "BN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.690157618747, 8.47058298314151 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2673", "BusID": "M1F3-PBLJ2673", "Phase": "BN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.689957363932, 8.46990533000051 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2674", "BusID": "M1F3-PBLJ2674", "Phase": "BN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.689755341856, 8.46915504223601 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2675", "BusID": "M1F3-PBLJ2675", "Phase": "BN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.689449288512, 8.46876717470387 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2676", "BusID": "M1F3-PBLJ2676", "Phase": "BN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.689099468167, 8.46826154582707 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2677", "BusID": "M1F3-PBLJ2677", "Phase": "BN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.688458970057, 8.46691569975187 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2678", "BusID": "M1F3-PBLJ2678", "Phase": "BN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.68783039276, 8.46609415633791 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2679", "BusID": "M1F3-PBLJ2679", "Phase": "BN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.687251183854, 8.46539908628322 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2680", "BusID": "M1F3-PBLJ2680", "Phase": "BN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.686745325366, 8.4648846884006 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2681", "BusID": "M1F3-PBLJ2681", "Phase": "BN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.686281927535, 8.46420749373793 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2509", "BusID": "M1F3-PBOC2509", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.713994678005, 8.47647048987936 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2510", "BusID": "M1F3-PBOC2510", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.713362234196, 8.47546819982243 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2511", "BusID": "M1F3-PBOC2511", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.712743956344, 8.4745382029772 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2512", "BusID": "M1F3-PBOC2512", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.712265277519, 8.47330058934436 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2513", "BusID": "M1F3-PBOC2513", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.711764281646, 8.47204493536422 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2514", "BusID": "M1F3-PBOC2514", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.711462039502, 8.47136748183571 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2515", "BusID": "M1F3-PBOC2515", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.710938133049, 8.47078987116161 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2516", "BusID": "M1F3-PBOC2516", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.710506628869, 8.47032057239879 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2518", "BusID": "M1F3-PBOC2518", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.709921331059, 8.46974307153014 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2519", "BusID": "M1F3-PBOC2519", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.709587298001, 8.4690837538486 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2520", "BusID": "M1F3-PBOC2520", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.709268597182, 8.4686504090864 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2521", "BusID": "M1F3-PBOC2521", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.708895743256, 8.46785556021176 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2522", "BusID": "M1F3-PBOC2522", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.708408782129, 8.46704283715153 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2523", "BusID": "M1F3-PBOC2523", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.708163311118, 8.46648279802626 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2524", "BusID": "M1F3-PBOC2524", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.707752139616, 8.46581457761497 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2525", "BusID": "M1F3-PBOC2525", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.707482495831, 8.46524554159201 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2526", "BusID": "M1F3-PBOC2526", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.706851034049, 8.46465907831087 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2527", "BusID": "M1F3-PBOC2527", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.706093666788, 8.46398244027044 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2528", "BusID": "M1F3-PBOC2528", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.711234971335, 8.47045485023476 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2529", "BusID": "M1F3-PBOC2529", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.711618641242, 8.4700111908089 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2530", "BusID": "M1F3-PBOC2530", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.71204100663, 8.46992906234776 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2531", "BusID": "M1F3-PBOC2531", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.713485155849, 8.469700431649 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2532", "BusID": "M1F3-PBOC2532", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.713934801446, 8.46964537155064 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2533", "BusID": "M1F3-PBOC2533", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.715006597668, 8.46946261451647 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2534", "BusID": "M1F3-PBOC2534", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.715258601611, 8.46899207231648 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2535", "BusID": "M1F3-PBOC2535", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.715561089134, 8.46848527750613 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2536", "BusID": "M1F3-PBOC2536", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.716572705194, 8.46770598422254 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2537", "BusID": "M1F3-PBOC2537", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.715887851491, 8.46697499417483 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2538", "BusID": "M1F3-PBOC2538", "Phase": "AN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.71679720347, 8.46804909451053 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2213", "BusID": "M1F3-PBOC2213", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.762012257562, 8.46897616886495 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2214", "BusID": "M1F3-PBOC2214", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.762445110658, 8.46959908202187 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2003", "BusID": "M1F3-PBOC2003", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.777122700278, 8.4700035332864 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2004", "BusID": "M1F3-PBOC2004", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.776231265552, 8.4696752255196 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2005", "BusID": "M1F3-PBOC2005", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.774640378676, 8.46919491846939 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2006", "BusID": "M1F3-PBOC2006", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.773710053906, 8.4687895478673 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2007", "BusID": "M1F3-PBOC2007", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.772881938302, 8.46847700101038 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2008", "BusID": "M1F3-PBOC2008", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.77156100561, 8.46824290871789 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2009", "BusID": "M1F3-PBOC2009", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.771037024229, 8.4681991412318 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2010", "BusID": "M1F3-PBOC2010", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.769735023734, 8.46823746369487 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2011", "BusID": "M1F3-PBOC2011", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.768028477438, 8.46822313553933 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2012", "BusID": "M1F3-PBOC2012", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.766617011141, 8.46808990373834 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2013", "BusID": "M1F3-PBOC2013", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.76496553351, 8.46825585338273 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2210", "BusID": "M1F3-PBOC2210", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.763892773183, 8.46813178884222 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2211", "BusID": "M1F3-PBOC2211", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.762486359833, 8.46817069060897 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2212", "BusID": "M1F3-PBOC2212", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.761637860621, 8.46825370193379 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2215", "BusID": "M1F3-PBOC2215", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.761105306473, 8.46826377772718 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2216", "BusID": "M1F3-PBOC2216", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.759503461742, 8.46830304875753 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2218", "BusID": "M1F3-PBOC2218", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.755977524345, 8.46837315378216 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2219", "BusID": "M1F3-PBOC2219", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.755735625907, 8.46843690051876 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2220", "BusID": "M1F3-PBOC2220", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.754391730768, 8.46844853275659 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2221", "BusID": "M1F3-PBOC2221", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.753394321391, 8.46870357258807 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2222", "BusID": "M1F3-PBOC2222", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.752391707147, 8.46891342025775 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2223", "BusID": "M1F3-PBOC2223", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.750041635872, 8.46936992887184 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2224", "BusID": "M1F3-PBOC2224", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.748352046206, 8.4696895619255 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2225", "BusID": "M1F3-PBOC2225", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.74706692368, 8.46990897633666 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2323", "BusID": "M1F3-PBOC2323", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.744287710879, 8.47050134909896 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2324", "BusID": "M1F3-PBOC2324", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.742798027494, 8.47079397965204 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2326", "BusID": "M1F3-PBOC2326", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.742099039386, 8.47093090547785 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2327", "BusID": "M1F3-PBOC2327", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.741125397739, 8.47114971017889 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2328", "BusID": "M1F3-PBOC2328", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.740069820484, 8.47133784970638 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2365", "BusID": "M1F3-PBOC2365", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.739500954592, 8.47144473619105 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2366", "BusID": "M1F3-PBOC2366", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.737794974575, 8.47213101585258 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2367", "BusID": "M1F3-PBOC2367", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.735697896642, 8.47271242982729 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2368", "BusID": "M1F3-PBOC2368", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.733382166626, 8.47287285771231 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2417", "BusID": "M1F3-PBOC2417", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.732678512947, 8.47304593598185 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2418", "BusID": "M1F3-PBOC2418", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.731243757334, 8.47330174022737 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2419", "BusID": "M1F3-PBOC2419", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.730575334007, 8.47349282895355 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2420", "BusID": "M1F3-PBOC2420", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.728788606688, 8.47369922795154 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2421", "BusID": "M1F3-PBOC2421", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.726629612923, 8.47410949859578 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2422", "BusID": "M1F3-PBOC2422", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.723764532697, 8.47490669016063 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2423", "BusID": "M1F3-PBOC2423", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.721548280052, 8.47530551084047 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2424", "BusID": "M1F3-PBOC2424", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.718753589693, 8.47591033200795 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2436", "BusID": "M1F3-PBOC2436", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.717737623613, 8.4761201182698 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2437", "BusID": "M1F3-PBOC2437", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.71542052879, 8.47656732479753 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2438", "BusID": "M1F3-PBOC2438", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.71463720563, 8.47669932939878 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2439", "BusID": "M1F3-PBOC2439", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.714316860244, 8.47679601262017 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2584", "BusID": "M1F3-PBOC2584", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.713433167181, 8.47703180654774 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2585", "BusID": "M1F3-PBOC2585", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.711958675742, 8.47717932430019 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2586", "BusID": "M1F3-PBOC2586", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.706026669614, 8.47781384126277 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2587", "BusID": "M1F3-PBOC2587", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.705724429426, 8.47776918654141 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2588", "BusID": "M1F3-PBOC2588", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.705179656373, 8.47812273119596 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2589", "BusID": "M1F3-PBOC2589", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.705019442237, 8.47817726038998 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2590", "BusID": "M1F3-PBOC2590", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.701841062712, 8.47898754255685 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2591", "BusID": "M1F3-PBOC2591", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.701097594299, 8.47911543705673 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBLJ2651", "BusID": "M1F3-PBLJ2651", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.696720780247, 8.48008529112859 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2329", "BusID": "M1F3-PBOC2329", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.740443073557, 8.4719531262433 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2330", "BusID": "M1F3-PBOC2330", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.740900407078, 8.4722822354123 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2331", "BusID": "M1F3-PBOC2331", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.741332095728, 8.47254723240552 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2332", "BusID": "M1F3-PBOC2332", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.742015958936, 8.47296609862061 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2333", "BusID": "M1F3-PBOC2333", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.74277856158, 8.47340726719101 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2334", "BusID": "M1F3-PBOC2334", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.743502132598, 8.47384831722067 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2335", "BusID": "M1F3-PBOC2335", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.744538529293, 8.47447149925635 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2336", "BusID": "M1F3-PBOC2336", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.745213819168, 8.47493940126839 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2337", "BusID": "M1F3-PBOC2337", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.745782634412, 8.47533846116209 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2339", "BusID": "M1F3-PBOC2339", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.746740586272, 8.47602614553578 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "M1F3-PBOC2338", "BusID": "M1F3-PBOC2338", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Wood Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.745807533588, 8.4752274813696 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.759983912007000-8.467819936069750", "Phase": "BCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.759983912018, 8.46781993607054 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.766666000257000-8.471387541046110", "Phase": "BCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.766666000266, 8.47138754104679 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.766133673021000-8.471502956319210", "Phase": "BCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.76613367303, 8.4715029563199 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.765276318341000-8.471699352366070", "Phase": "BCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.765276318351, 8.47169935236676 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.765561006803000-8.471995400629170", "Phase": "BCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.765561006813, 8.47199540062986 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.766207021062000-8.472986294730080", "Phase": "BCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.766207021071, 8.47298629473077 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.766472986756000-8.473747904039930", "Phase": "BCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.766472986766, 8.47374790404061 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.766954659354000-8.474633649853150", "Phase": "BCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.766954659363, 8.47463364985383 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.767613912108000-8.475557039568010", "Phase": "BCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.767613912117, 8.47555703956869 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.768033776448000-8.476048186831640", "Phase": "BCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.768033776457, 8.47604818683232 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.768333300519000-8.476504067810710", "Phase": "BCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.768333300528, 8.47650406781139 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.768770242845000-8.477264815160310", "Phase": "BCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.768770242854, 8.47726481516099 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.769006609118000-8.477757553544710", "Phase": "BCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.769006609128, 8.47775755354539 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.768164684350000-8.467853610719430", "Phase": "BCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.769175706079, 8.4676350780886 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.769815997785000-8.468147349347500", "Phase": "BCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "30", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.768780475047, 8.46829444159374 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.719542562274000-8.466870475698430", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "45", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.719542562278, 8.46687047569868 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.719280570539000-8.466662311477700", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "45", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.719280570543, 8.46666231147795 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.719831462126000-8.466256134756840", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "45", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.71983146213, 8.46625613475708 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.720309363927000-8.465930566940320", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "45", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.72030936393, 8.46593056694056 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.720857274678000-8.465786242543850", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "45", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.720857274681, 8.46578624254408 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.722389303154000-8.465388297308780", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "45", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.72239468844, 8.46540083669899 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.722754751948000-8.465334954036980", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "45", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.722754751951, 8.46533495403722 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.724269125158000-8.463668867460630", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "45", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.724269125161, 8.46366886746086 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.725289595771000-8.463043269270790", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "45", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.725289595774, 8.46304326927101 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.726114590289000-8.462804623592270", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "45", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.726114590292, 8.46280462359249 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.778976084601000-8.470250130853380", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "60", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.778879643406, 8.47040737503456 ]  } }
+ , 
+{ "type": "Feature",  "properties": {  "JAEDType": "MVPole", "PoleID": "", "BusID": "MVPole-123.778421696057000-8.470238475460180", "Phase": "ABCN", "StructureType1": "C1 ", "StructureType2": "C1", "StructureType3": "", "Height": "60", "PoleType": "Steel Pole", "Picture": ""}, "geometry": {  "type": "Point",  "coordinates": [ 123.778421696057, 8.4702384754602 ]  } }
+]}
